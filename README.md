@@ -293,7 +293,7 @@ spec:
 
 ## Step 7 : Deploy all in one
 
-To automate the deployment of the application in any infrastructure, we can either copy paste all deployments in one YML file and launch it with :
+To automate the deployment of the application in any infrastructure, we can either copy paste all manifests in one YML file and launch it with :
 
 `kubectl create -f deploy-wordpress-app.yml`
 
