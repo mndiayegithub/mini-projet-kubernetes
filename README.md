@@ -12,6 +12,10 @@ Linkedin : https://www.linkedin.com/in/mansour-ndiaye-64a04b161/
 ---
 
 # Kubernetes mini - project
+
+![image](https://user-images.githubusercontent.com/58290325/235281738-512d2f1c-bead-42c6-8378-4aa86ffe7725.png)
+
+## Context
 The aim of this project is to deploy wordpress and mysql in a kubernetes cluster following these steps : 
 - Create a mysql deployment with only one replica,
 - Create a service type clusterIP to expose mysql pods
